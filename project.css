@@ -1,0 +1,79 @@
+#title {
+    font-family: serif;
+    color: firebrick;
+    font-size: 50px;
+}
+
+#r {
+    font-family: sans-serif;
+    color: burlywood;
+    font-size: 34px;
+    font-style: italic;
+}
+
+html {
+    margin-left: 20px;
+}
+
+#er {
+    font-family: monospace;
+    color: darkgrey;
+}
+
+p.normal {
+    font-family: inherit;
+    color: cadetblue;
+}
+
+h3.vern {
+    font-family: veranda;
+    color: cornflowerblue;
+}
+
+a:link, a:visited, a:active {
+    border: 2px solid black;
+    color: cornflowerblue;
+}
+
+a:hover {
+    background-color: lightpink;
+}
+
+#f {
+    font-family: fantasy;
+    font-weight: 200;
+    border: 2px solid darkblue;
+    margin-right: 576px;
+}
+
+#v {
+    font-family: fantasy;
+    font-weight: 200;
+    border: 2px solid darkblue;
+    margin-right:833px;
+}
+
+#tu {
+    font-family: fantasy;
+    font-weight: 200;
+    border: 2px solid darkblue;
+    margin-right: 688.5px;
+}
+
+#re {
+    font-family: fantasy;
+    font-weight: 200;
+    border: 2px solid darkblue;
+    margin-right: 568.5px;
+}
+
+#yh {
+    font-family: monospace;
+}
+
+#trev {
+    font-family: fantasy;
+    font-weight: 200;
+    border: 2px solid darkblue;
+    margin-right: 552px;
+}
